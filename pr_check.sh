@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Running RP check"
+echo "Running RP check!"
 exit 0
+
+
 
